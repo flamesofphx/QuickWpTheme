@@ -1,0 +1,2 @@
+# QuickWpTheme
+Quick WP Theme
